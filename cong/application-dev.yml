@@ -1,0 +1,4 @@
+server:
+  port: 7306
+foo: 陈桥东
+sid: 7306
